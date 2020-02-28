@@ -1,0 +1,11 @@
+C:\Users\Heliton\Source\Repos\SenhaFixa\bin\Debug\netcoreapp3.1\SenhaFixa.exe
+C:\Users\Heliton\Source\Repos\SenhaFixa\bin\Debug\netcoreapp3.1\SenhaFixa.deps.json
+C:\Users\Heliton\Source\Repos\SenhaFixa\bin\Debug\netcoreapp3.1\SenhaFixa.runtimeconfig.json
+C:\Users\Heliton\Source\Repos\SenhaFixa\bin\Debug\netcoreapp3.1\SenhaFixa.runtimeconfig.dev.json
+C:\Users\Heliton\Source\Repos\SenhaFixa\bin\Debug\netcoreapp3.1\SenhaFixa.dll
+C:\Users\Heliton\Source\Repos\SenhaFixa\bin\Debug\netcoreapp3.1\SenhaFixa.pdb
+C:\Users\Heliton\Source\Repos\SenhaFixa\obj\Debug\netcoreapp3.1\SenhaFixa.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\SenhaFixa\obj\Debug\netcoreapp3.1\SenhaFixa.AssemblyInfoInputs.cache
+C:\Users\Heliton\Source\Repos\SenhaFixa\obj\Debug\netcoreapp3.1\SenhaFixa.AssemblyInfo.cs
+C:\Users\Heliton\Source\Repos\SenhaFixa\obj\Debug\netcoreapp3.1\SenhaFixa.dll
+C:\Users\Heliton\Source\Repos\SenhaFixa\obj\Debug\netcoreapp3.1\SenhaFixa.pdb
